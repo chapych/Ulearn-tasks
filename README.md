@@ -1,2 +1,2 @@
 # Ulearn-tasks
-Completed tasks 
+Completed tasks from ulearn course  
