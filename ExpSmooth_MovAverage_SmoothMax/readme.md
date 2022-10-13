@@ -4,3 +4,5 @@
 
 В задаче было необходимо реализовать сглаживание, усреднение и максимум по произвольному количеству точек. (смотреть, например [страницу про exponential smoothing на вики](https://en.wikipedia.org/wiki/Exponential_smoothing#The_exponential_moving_average). Практика направлена на оттачивание навыков в linkedLists, очереди, ленивые функции. Мои итоговые решения лежат в [MovingAverageTask.cs ](https://github.com/chapych/Ulearn-tasks/blob/main/ExpSmooth_MovAverage_SmoothMax/MovingAverageTask.cs), [ExpSmoothingTask.cs ](https://github.com/chapych/Ulearn-tasks/blob/main/ExpSmooth_MovAverage_SmoothMax/ExpSmoothingTask.cs), [MovingMaxTask.cs ](https://github.com/chapych/Ulearn-tasks/blob/main/ExpSmooth_MovAverage_SmoothMax/MovingMaxTask.cs).
 
+
+![Иллюстрация к проекту](https://github.com/chapych/ExpSmooth_MovAverage_SmoothMax/ShowWork.jpg)
